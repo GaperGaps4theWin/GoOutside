@@ -1,0 +1,69 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#comingSoon{
+	text-align: center;
+	margin-top: -10px;
+}
+#logoContainer{
+	margin-bottom: 0px;
+	padding-bottom: 0px
+}
+body{
+	background-color: white;
+}
+.jumbotron{
+	background-color: white;
+	margin: 0px;
+	padding: 0px;
+}
+.carousel{
+	background-color: white;
+	
+}
+#centerlogo{
+	padding-left: auto;
+	padding-right: auto;
+}
+.navbar{
+	background-color: white;
+	border-bottom: medium solid #514F4F;
+}
+img{
+ padding: 0px;
+	margin: 0px;
+}
+.NavLogo{
+	max-height: 50px;
+	padding-top: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding-bottom: 5px;
+}
+
+.homePhoto{
+	max-height: 50%;
+}
+
+.carousel-control.right {
+	background-image: none;
+}
+.carousel-control.left {
+	background-image: none;
+}
+.carousel{
+	padding: 0px;
+	margin: 0px;
+}
+.carousel-fade{
+		padding: 0px;
+	margin: 0px;
+	
+}
+.instafeed{
+	padding: 0em;
+		margin: 0em;
+}
+.line1{
+	border-top: thin solid #000000;
+}
